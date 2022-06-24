@@ -13,6 +13,38 @@
       },
       "last_updated": "1584833776"
     },
+    "2": {
+      "title": "",
+      "volume": "1",
+      "groups": {
+        "The Corporation": "/proxy/api/mangadex/chapter/f2ea4b44-e87c-4d1f-be96-264165b1a036/"
+      },
+      "last_updated": "1586823805"
+    },
+    "3": {
+      "title": "",
+      "volume": "1",
+      "groups": {
+        "The Corporation": "/proxy/api/mangadex/chapter/515e68e2-c5e4-468d-858b-cda25014de97/"
+      },
+      "last_updated": "1589490464"
+    },
+    "4": {
+      "title": "",
+      "volume": "1",
+      "groups": {
+        "The Corporation": "/proxy/api/mangadex/chapter/574f155f-f35f-4bf1-a09f-8cf344c0ca70/"
+      },
+      "last_updated": "1590353911"
+    },
+    "4.5": {
+      "title": "Killing me after - Epilogue",
+      "volume": "1",
+      "groups": {
+        "The Corporation": "/proxy/api/mangadex/chapter/72141bc4-bd92-4851-8f90-9de97b6c2926/"
+      },
+      "last_updated": "1590353967"
+    },
     "5": {
       "title": "",
       "volume": "2",
