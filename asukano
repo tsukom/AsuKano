@@ -11,7 +11,7 @@
       "groups": {
         "SENDIRI scans": "/proxy/api/imgur/chapter/tlSuaRe/"
       },
-      "last_updated": "1616368746"
+      "last_updated": "1652057797"
     },
     "6": {
       "title": "",
@@ -20,6 +20,54 @@
         "SENDIRI scans": "/proxy/api/imgur/chapter/EKJ28Ny/"
       },
       "last_updated": "1652700538"
+    },
+    "7": {
+      "title": "",
+      "volume": "2",
+      "groups": {
+        "SENDIRI scans": "/proxy/api/imgur/chapter/qnaxRJH/"
+      },
+      "last_updated": "1653063607"
+    },
+    "8": {
+      "title": "",
+      "volume": "2",
+      "groups": {
+        "SENDIRI scans": "/proxy/api/imgur/chapter/2fadxzu/"
+      },
+      "last_updated": "1653400478"
+    },
+    "9": {
+      "title": "",
+      "volume": "2",
+      "groups": {
+        "SENDIRI scans": "/proxy/api/imgur/chapter/GoK4Vsm/"
+      },
+      "last_updated": "1653836221"
+    },
+    "10": {
+      "title": "",
+      "volume": "2",
+      "groups": {
+        "SENDIRI scans": "/proxy/api/imgur/chapter/5FgdKOS/"
+      },
+      "last_updated": "1654429238"
+    },
+    "11": {
+      "title": "",
+      "volume": "2",
+      "groups": {
+        "SENDIRI scans": "/proxy/api/imgur/chapter/IGRPTnU/"
+      },
+      "last_updated": "1654907954"
+    },
+    "12": {
+      "title": "",
+      "volume": "2",
+      "groups": {
+        "SENDIRI scans": "/proxy/api/imgur/chapter/S8nGUIK/"
+      },
+      "last_updated": "1655557711"
     }
   }
 }
