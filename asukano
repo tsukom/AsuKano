@@ -356,6 +356,14 @@
         "tsukom": "/proxy/api/mangadex/chapter/a9d05ad3-6ca5-489b-b74c-7192676c3915/"
       },
       "last_updated": "1662548901"
+    },
+    "44": {
+      "title": "",
+      "volume": "7",
+      "groups": {
+        "tsukom": "/proxy/api/imgur/chapter/mlHocs1/"
+      },
+      "last_updated": "1662643112"
     }
   }
 }
