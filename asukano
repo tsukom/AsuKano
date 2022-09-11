@@ -372,6 +372,22 @@
         "tsukom": "/proxy/api/mangadex/chapter/e932de36-51c3-47a6-b8c9-e577036ab5a9/"
       },
       "last_updated": "1662870568"
+    },
+    "46": {
+      "title": "",
+      "volume": "8",
+      "groups": {
+        "tsukom": "/proxy/api/mangadex/chapter/f08e2812-e235-4fc8-98ce-90ac29e10ce9/"
+      },
+      "last_updated": "1662911408"
+    },
+    "47": {
+      "title": "",
+      "volume": "8",
+      "groups": {
+        "tsukom": "/proxy/api/mangadex/chapter/de363caf-9396-465f-8836-d49808238fb4/"
+      },
+      "last_updated": "1662911408"
     }
   }
 }
