@@ -396,6 +396,14 @@
         "tsukom": "/proxy/api/mangadex/chapter/50b08c8d-87dc-4252-9e2e-898d0b26f05d/"
       },
       "last_updated": "1663164311"
+    },
+    "49": {
+      "title": "",
+      "volume": "8",
+      "groups": {
+        "tsukom": "/proxy/api/mangadex/chapter/2f0ab447-5497-4fb9-a5bb-ff4ef8de2228/"
+      },
+      "last_updated": "1663455281"
     }
   }
 }
