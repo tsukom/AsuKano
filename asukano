@@ -452,6 +452,14 @@
         "SENDIRI scans": "/proxy/api/mangadex/chapter/d810b622-ee84-4c15-aa55-0096c43f17d0/"
       },
       "last_updated": "1675009309"
+    },
+    "111": {
+      "title": "Brainwashing 4",
+      "volume": "9",
+      "groups": {
+        "SENDIRI scans": "/proxy/api/mangadex/chapter/42594b2c-61bb-4ef4-8df0-1ddba0addc7b/"
+      },
+      "last_updated": "1675574081"
     }
   }
 }
