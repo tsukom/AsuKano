@@ -500,6 +500,30 @@
         "SENDIRI scans": "/proxy/api/mangadex/chapter/624cf9cf-4833-4f51-ba61-0b7627072138/"
       },
       "last_updated": "1678025382"
+    },
+    "117": {
+      "title": "Brainwashing 10",
+      "volume": "9",
+      "groups": {
+        "SENDIRI scans": "/proxy/api/mangadex/chapter/1e969c2d-aad3-4b31-8070-483411330927/"
+      },
+      "last_updated": "1678479131"
+    },
+    "118": {
+      "title": "Brainwashing 11",
+      "volume": "10",
+      "groups": {
+        "SENDIRI scans": "/proxy/api/mangadex/chapter/d3097238-eb00-44b7-8079-aac873b45ab0/"
+      },
+      "last_updated": "1687020823"
+    },
+    "119": {
+      "title": "Brainwashing 12",
+      "volume": "10",
+      "groups": {
+        "SENDIRI scans": "/proxy/api/mangadex/chapter/73a1711b-408a-4fed-8ba5-5404a2810d51/"
+      },
+      "last_updated": "1687518514"
     }
   }
 }
